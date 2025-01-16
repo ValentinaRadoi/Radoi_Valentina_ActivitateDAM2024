@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Seminar4</string>
+    <string name="catre_oceanul_vapoarelor">Catre oceanul vapoarelor!</string>
+    <string name="adauga_un_vapor_nou">Adauga un vapor nou</string>
+    <string name="denumire_vapor">Denumire vapor</string>
+    <string name="al_catelea_vapor_este">Al catelea vapor este?</string>
+    <string name="detalii_vapor">Detalii vapor</string>
+    <string name="de_marfa">De marfa??</string>
+    <string name="cati_m_lungime">Cato metri lungime??</string>
+</resources>
